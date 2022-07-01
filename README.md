@@ -1,1 +1,1 @@
-# change-console.log
+# modify the console.log function to collect logs
